@@ -26,7 +26,7 @@ Saga is a web-based information system designed to manage the registration and i
 - **GitHub Repository:** [radhanama/gerdisc](https://github.com/radhanama/gerdisc)
 - **Technologies used:** [.Net, Entity framework, PostgreSQL, Docker]
 
-![Saga Image](link_to_saga_image)
+Project swagger: https://spica.eic.cefet-rj.br/api/index.html
 
 ### Project 2: [El Chupacabra Framework](https://github.com/El-Chupacabra-TCC/el-chupacabra)
 
@@ -35,7 +35,7 @@ El Chupacabra Framework is a framework for remote proof-of-concept testing aimed
 - **GitHub Repository:** [El-Chupacabra-TCC/el-chupacabra](https://github.com/El-Chupacabra-TCC/el-chupacabra)
 - **Technologies used:** [TypeScript]
 
-![El Chupacabra Image](link_to_chupacabra_image)
+Experiment link: https://observablehq.com/@moura/framework-el-chupacabra-experimento
 
 ## Skills
 
